@@ -1,2 +1,4 @@
-package com.citruswitch.citrussite;public class Controller {
+package com.citruswitch.citrussite;
+
+public class Controller {
 }
